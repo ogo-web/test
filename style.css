@@ -1,0 +1,50 @@
+body {
+  background: rgb(47,52,63);
+}
+
+h1 {
+  margin: 200px auto 0;
+  width: 500px;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'sans serif';
+  font-size: 52px;
+}
+
+#container {
+  width: 300px;
+  margin: 0 auto;
+  background: rgb(67,72,83);
+  padding: 30px;
+}
+
+#zahl1, #zahl2 {
+  width: 100px;
+}
+
+#ergebnis {
+  width: 180px;
+}
+
+#berechneButton {
+  width: 90px;
+  font-weight: bold;
+  background: rgb(90, 154, 65);
+  border: 0;
+  color: #ffffff;
+  padding: 5px 0;
+  border-radius: 3px;
+}
+
+#berechneButton:active {
+  background: rgb(70, 134, 45);
+}
+
+p {
+  margin: 10px auto;
+  font-weight: bold;
+  width: 40px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 52px;
+}
